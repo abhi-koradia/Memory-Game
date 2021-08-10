@@ -106,6 +106,7 @@ main {
    ;
    gap: 30px;
    place-items: center;
+   font-weight: bold;
 }
 
 #reset {
