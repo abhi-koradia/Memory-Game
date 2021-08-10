@@ -20,7 +20,3 @@ I used Unsplash API to fetch images from their site.
 3. `npm install`
 
 4. `npm dev`
-
-## Contributions
-
-Any feature requests and pull requests are welcome!
