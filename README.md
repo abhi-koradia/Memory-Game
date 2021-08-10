@@ -10,13 +10,3 @@ I used Unsplash API to fetch images from their site.
 2. Match percentage
 3. Win state detection
 4. Reset functionality
-
-## Installation
-
-1. `git clone https://github.com/madzadev/memory-game.git`
-
-2. `cd memory-game`
-
-3. `npm install`
-
-4. `npm dev`
